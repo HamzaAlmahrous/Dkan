@@ -7,5 +7,10 @@ I used:
 - Shared Preferences to store small data
 - Dio package 
 Many thanks to [Abdullah Mansour](https://github.com/abdullahmansss) for the backend API's and the great content in his Udemy flutter course.
+
 [images made by figma](https://www.figma.com)
+
 hope you like it ❤️.
+
+![cove](https://github.com/HamzaAlmahrous/Dkan/blob/master/figma_images/small_1.png)
+
